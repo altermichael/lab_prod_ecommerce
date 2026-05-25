@@ -1,0 +1,16 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+.env
+.env.prod
+db.sqlite3
+db.sqlite3-journal
+.DS_Store
+.idea
+.vscode
+htmlcov
+.coverage
+silk_storage/
